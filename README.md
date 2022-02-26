@@ -1,4 +1,4 @@
-# Hi I'm Eunju Kim 👋
+# Hi I'm Chaei Kim 👋
 
 ### Front End Developer
 
